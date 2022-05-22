@@ -1,0 +1,41 @@
+.thumbnail {
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+    border: 1px solid #A9A9A9;
+    border-radius: 0.1em;
+    padding: 5px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.4);
+    transition: 0.1s;
+    margin: 10px;
+    cursor: pointer;
+}
+.sliderImg{
+    margin: auto;
+    max-width: 100%;
+    max-height: 25vmax;
+}
+
+.thumbnail:hover{
+    box-shadow: 0 0 40px #e5989b;
+}
+
+.image-button:hover{
+    cursor: pointer;
+    border-radius: 30px;
+    box-shadow: 0 0 16px #48cae4;
+}
+
+.image-button:active{
+    cursor: pointer;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #560bad;
+}
+
+.image-button{
+    min-width: 2em;
+    width: 5%;
+}
+footer a{
+    text-decoration: none;
+}

@@ -1,0 +1,45 @@
+{
+  "photos":
+  [
+    {
+      "src": "ahri.jpg",
+      "title": "Ahri",
+      "description": "The Nine-Tailed Fox"
+    },
+    {
+      "src": "fiddlestick.jpg",
+      "title": "Fiddlestick",
+      "description": "The Ancient Fear"
+    },
+    {
+      "src": "neeko.jpg",
+      "title": "Neeko",
+      "description": "The Curious Chameleon"
+    },
+    {
+      "src": "seraphine.jpg",
+      "title": "Seraphine",
+      "description": "The Starry-Eyed Songstress"
+    },
+    {
+      "src": "evelyn.jpg",
+      "title": "Evelynn",
+      "description": "The Agony's Embrace"
+    },
+    {
+      "src": "taric.jpg",
+      "title": "Taric",
+      "description": "The Shield of Valoran"
+    },
+    {
+      "src": "lux.jpg",
+      "title": "Lux",
+      "description": "The Lady of Luminosity"
+    },
+    {
+      "src": "yasuo.jpg",
+      "title":"Yasuo",
+      "description": "The Unforgiven"
+    }  
+  ]
+}
